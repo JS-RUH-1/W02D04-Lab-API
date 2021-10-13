@@ -1,5 +1,5 @@
 # The Rick and Morty API
-<img src="giphy.gif">
+
 
 > The goal of this lab to fetch (get) images and names for characters from the Rick and Morty API and display it as grid 
 - Use this documentation `https://rickandmortyapi.com/documentation/` to know how to fetch the data from this API.
