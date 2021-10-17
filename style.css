@@ -20,7 +20,7 @@ html {
   }
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 767px) and (min-width: 321px) {
   #card-group {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -28,7 +28,7 @@ html {
   }
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 320px) {
   #card-group {
     display: grid;
     grid-template-columns: 1fr;
